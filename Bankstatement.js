@@ -29,4 +29,4 @@ function Transactions(balance, transaction_type, transactionAmount){
     }  
 }
 
-Transactions(10000,'Card',7000);
+Transactions(10000,'Card',7000); 
