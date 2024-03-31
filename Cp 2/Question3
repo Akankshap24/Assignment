@@ -1,0 +1,8 @@
+n1 = int(input())
+arr1 = [int(x) for x in input().split()]
+
+n2 = int(input())
+arr2 = [int(x) for x in input().split()]
+
+merged = sorted(arr1 + arr2)
+print(*merged)
