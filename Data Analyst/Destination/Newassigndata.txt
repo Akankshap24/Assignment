@@ -1,0 +1,13 @@
+EmployeeID;Employee Name;Department;Annual Salary;Joining Date
+6;Chris Lee        ;Engineering;62000;2020-09-30
+10;Robert Johnson   ;Engineering;61000;2018-05-14
+1;John Doe         ;Engineering;60000;2021-05-20
+18;Jennifer Young   ;Engineering;59500;2021-11-11
+14;Daniel Rodriguez ;Engineering;58500;2020-07-22
+19;Charles King     ;Marketing  ;57000;2018-06-15
+15;Susan Lewis      ;Marketing  ;56000;2018-08-08
+2;Jane Smith       ;Marketing  ;55000;2020-08-15
+7;Anna Martinez    ;Marketing  ;54000;2021-07-19
+11;Linda Garcia     ;Marketing  ;53000;2021-12-20
+20;Christopher Scott;Sales      ;52000;2022-02-20
+16;Thomas Walker    ;Sales      ;50500;2021-03-30
